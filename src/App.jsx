@@ -181,6 +181,10 @@ function App() {
                     />
                 </div>
             </div>
+            <footer className="footer">
+                <h1 className="title">Built by: <a href='https://joshsevero.dev'>Josh Severo</a></h1>
+                <p className="subtitle">Open Source on: <a href='https://github.com/DIVISIONSolar/Password-Generator-v2'>Github</a></p>
+            </footer>
         </div>
     )
 }

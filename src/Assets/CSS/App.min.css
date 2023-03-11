@@ -39,7 +39,7 @@
 
 .copy__btn {
     position: absolute;
-    background-color: #3b3b98;
+    /* background-color: #3b3b98; */
     color: white;
     border: none;
     height: 40px;
@@ -72,6 +72,46 @@
 }
 
 .passgen-text {
+    font-family: 'Abril Fatface', display;
+    font-family: 'Rubik', sans-serif;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+  
+a:link, a:visited {
+    text-decoration: none; 
+}
+
+a:hover, a:active {
+    text-decoration: underline;
+}
+
+footer .title {
+    margin-top: 40px;
+    text-align: center;
+    color: #0b0f19;
+    font-family: 'Abril Fatface', display;
+    font-family: 'Rubik', sans-serif;
+}
+
+footer .subtitle {
+    margin-top: 4px;
+    text-align: center;
+    color: #0b0f19;
     font-family: 'Abril Fatface', display;
     font-family: 'Rubik', sans-serif;
 }
